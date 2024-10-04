@@ -1,3 +1,3 @@
 fun main () {
-    println("Ayuda el kotolina es demasiado raro");
+    println("Ayuda el kotolina es muy raro");
 }
